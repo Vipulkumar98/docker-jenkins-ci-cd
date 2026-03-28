@@ -12,7 +12,7 @@ def home():
         <body style="font-family: Arial; text-align: center; margin-top: 100px;">
             <h1>DevOps CI/CD Pipeline Project</h1>
             <p>Application deployed using Docker, Jenkins, GitHub, and Docker Hub.</p>
-            <p><b>Version 1</b></p>
+            <p><b>Version 2.0 - Updated via Jenkins CI/CD Pipeline</b></p>
         </body>
     </html>
     """
